@@ -25,5 +25,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djiwan14&show_icons=true&locale=en&layout=compact" alt="djiwan14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djiwan14&" alt="djiwan14" /></p>
-https://quira.sh?utm_source=widgets&utm_campaign=Djiwan14
 
