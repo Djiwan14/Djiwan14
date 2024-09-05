@@ -5,7 +5,7 @@
 - 🌱 **Learning**: Exploring Java Spring and Python Django.
 - 👨‍💻 **Projects**: Check out all my work at [GitHub](https://github.com/Djiwan14).
 - 📫 **Contact**: [dji14shokh17@gmail.com](mailto:dji14shokh17@gmail.com)
-- ⚡ **Fun Fact**: I enjoy playing football.
+- ⚡ **Fun Fact**: I enjoy playing analytics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,6 +88,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djiwan14&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djiwan14" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djiwan14&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djiwan14&theme=dark" alt="GitHub Streak" />
 </p>
