@@ -84,7 +84,7 @@
   </a>
 </p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djiwan14&show_icons=true&theme=dark)
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
