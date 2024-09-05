@@ -24,9 +24,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+[<p align="left">
   <img src="https://skillicons.dev/icons?i=bash,bootstrap,csharp,css,django,dotnet,flask,git,html,java,mongodb,mssql,mysql,postgres,postman,python,spring,sqlite,unity" alt="Skills" />
-</p>
+</p>](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,mongodb,photoshop,react,nextjs,bootstrap,sass,jest,python,go,docker,kubernetes,selenium,figma,git,gulp,jenkins) 
 
 
 <h3 align="left">GitHub Stats:</h3>
