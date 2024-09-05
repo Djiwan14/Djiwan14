@@ -25,7 +25,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,csharp,css,django,dotnet,flask,git,html,java,mongodb,mssql,mysql,postgres,postman,python,spring,sqlite,unity" />
+    <a href="https://github.com/javy99">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,mongodb,photoshop,react,nextjs,bootstrap,sass,jest,python,go,docker,kubernetes,selenium,figma,git,gulp,jenkins" />
+    </a>
 </p>
 
 
