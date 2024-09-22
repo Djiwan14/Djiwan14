@@ -5,7 +5,7 @@
 - 🌱 **Learning**: Exploring Java Spring and Python Django.
 - 👨‍💻 **Projects**: Check out all my work at [GitHub](https://github.com/Djiwan14).
 - 📫 **Contact**: You can contact me through [dji14shokh17@gmail.com](mailto:dji14shokh17@gmail.com)
-- ⚡ **Fun Fact**: I enjoy playing analytics.
+- ⚡ **Fun Fact**: I enjoy football analytics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
