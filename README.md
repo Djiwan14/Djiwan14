@@ -4,7 +4,7 @@
 - 🔭 **Current Project**: Working on a Web CV project.
 - 🌱 **Learning**: Exploring Java Spring and Python Django.
 - 👨‍💻 **Projects**: Check out all my work at [GitHub](https://github.com/Djiwan14).
-- 📫 **Contact**: You can contact me through [dji14shokh17@gmail.com](mailto:dji14shokh17@gmail.com)
+- 📫 **Contact**: You can contact me through [shokhrukh.nigmatillaev@gmail.com](mailto:shokhrukh.nigmatillaev@gmail.com)
 - ⚡ **Fun Fact**: I enjoy football analytics.
 
 <h3 align="left">Connect with me:</h3>
